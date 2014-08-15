@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="orange_light">#f6b8a1</color>
+	<color name="gray_light">#dcdcdc</color>
+    <color name="gray_dark">#bababa</color>
+    <color name="gray_lighter">#fafafa</color>
+</resources>

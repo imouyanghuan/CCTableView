@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 这个本来就是TextView，谁改成EditText了？还enable=false？ -->
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/table_edit"
+    android:layout_width="48dp"
+    android:layout_height="48dp"
+    android:layout_weight="1"
+    android:background="@null"
+    android:gravity="center"
+    android:text="CIF号"
+    android:textSize="16sp" />
