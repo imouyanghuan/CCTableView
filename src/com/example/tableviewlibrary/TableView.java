@@ -16,7 +16,7 @@ public class TableView extends FrameLayout{//HorizontalScrollView {
 
 	public TableView(Context context, AttributeSet attrs, int defStyle) {
 		super(context, attrs, defStyle);
-		init();
+		init(); 
 	}
 
 	public TableView(Context context, AttributeSet attrs) {
